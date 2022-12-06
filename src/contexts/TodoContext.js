@@ -10,7 +10,7 @@ export const TodoProvider = ({children}) => {
     const [todos,setTodos] = useState([
         {
             id: 1,
-            text: "Learn React",
+            text: "Learn Html",
             completed: true,
 
         },      
